@@ -1,8 +1,8 @@
 {
     "domain": "ynab",
     "name": "ynab",
-    "documentation": "https://github.com/wxt9861/ynab",
+    "documentation": "https://github.com/idlemind/ynab",
     "dependencies": [],
-    "codeowners": ["@wxt9861"],
+    "codeowners": ["@idlemind"],
     "requirements": ["ynab-sdk==0.2.3"]
   }
